@@ -1,21 +1,20 @@
 .novawesapp {
-  width: 340px;
+  width: 320px;
   padding: 20px;
   overflow: none;
-  margin-left:-20px;
 }
 .novawesappimg {
   Height: 150px;
 }
  .novawesappimgborder {
   padding: 30px;
-  Width: 250px;
+  Width: 240px;
   border-top: 1px solid #999;
   border-bottom: 1px solid #999;
   margin-top: 20px;
  }
 .novawesappheader {
-  width:250px;
+  width:240px;
   font-family: 'Special Elite', cursive;
   font-size: 12px;
   letter-spacing: 1px;
@@ -25,6 +24,6 @@
 } 
 .novawesapptext {
   margin-top: 20px;
-  width:250px;
+  width: 240px;
   text-align:justify;
 } 
