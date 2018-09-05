@@ -2,7 +2,7 @@
   width: 340px;
   padding: 20px;
   overflow: none;
-  margin-left:-10px;
+  margin-left:-1px;
 }
 .novawesappimg {
   Height: 150px;
@@ -17,7 +17,7 @@
 .novawesappheader {
   width:250px;
   font-family: 'shopping';
-  font-size: 18px;
+  font-size: 25px;
   color: #000;
   margin:20px 0px -10px 0px;
   text-align: justify;
