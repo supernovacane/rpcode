@@ -5,6 +5,7 @@
 }
 .novawesappimg {
   Height: 150px;
+  background-size: cover; 
 }
  .novawesappimgborder {
   padding: 30px;
