@@ -1,0 +1,26 @@
+<style>
+.novawesapp {
+  width: 340px;
+  padding: 20px;
+}
+.novawesappimg {
+  Height: 150px;
+}
+ .novawesappimgborder {
+  padding: 30px;
+  Width: 250px;
+  border-top: 1px solid #999;
+  margin-top: 20px;
+ }
+.novawesappheader {
+  width:250px;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 17px;
+  text-shadow: 1px 1px #999; 
+  color: #000;
+} 
+.novawesapptext {
+  margin-top: 20px;
+  width:250px;
+} 
+</style>
