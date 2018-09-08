@@ -5,6 +5,30 @@
   border-right: 1px solid rgb(42, 175, 32, 0.5);
   padding-top: 20px;
 }
+
+.novawesthreadone a:link, .novawesthreadone a:visited, .novawesthreadone a:active {
+  color: #fff;
+  text-decoration: none;
+}
+
+.novawesthreadone a:hover {
+  color: rgb(42, 175, 32, 0.5);
+}
+
+.novawesthreadone b {
+  font-weight: bolder;
+  -webkit-text-stroke-width: .5px;
+  -webkit-text-stroke-color: rgb(42, 175, 32, 0.5);
+  color: rgb(42, 175, 32);
+}
+
+.novawesthreadone c {
+  font-style: italic;
+  color: rgb(42, 175, 32);
+  -webkit-text-stroke-width: .5px;
+  -webkit-text-stroke-color: rgb(42, 175, 32, 0.5);
+}
+
 .novawesthreadone-textbox {
   width: 320px;
 }
