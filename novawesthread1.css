@@ -1,8 +1,9 @@
 .novawesthreadone {
   width: 400px;
-  background-color: #fff;
+  background-color: none;
   border-left: 1px solid rgb(42, 175, 32, 0.5);
   border-right: 1px solid rgb(42, 175, 32, 0.5);
+  padding-top: 20px;
 }
 .novawesthreadone-textbox {
   width: 320px;
@@ -32,7 +33,7 @@
   width: 100px;
   height: 100px;
   border-radius: 100%;
-  background-color: rgb(250, 250, 250, 0.3);
+  background-color: rgb(250, 250, 250, 0.2);
   z-index: 1;
 } 
 .novawesthreadone-post {
@@ -65,3 +66,48 @@
   left:0px;
   z-index:3;
 } 
+
+.novawesthreadone-tag {
+  width: 260px;
+  display: flex;
+  height:36px;
+  background: rgb(42, 175, 32, 0.2);
+  border: 1px solid rgb(42, 175, 32, 0.5);
+}
+
+.novawesthreadone-tagicon {
+  width: 60px;
+  margin: auto;
+  text-shadow:
+    -1px -1px 0 #76da6d,
+    1px -1px 0 #76da6d,
+    -1px 1px 0 #76da6d,
+		1px 1px 0 #76da6d;
+  color: #fff;
+}
+
+.novawesthreadone-tagtext {
+  width: 200px;
+  margin: auto;
+  text-shadow:
+    -1px -1px 0 #76da6d,
+    1px -1px 0 #76da6d,
+    -1px 1px 0 #76da6d,
+  	1px 1px 0 #76da6d;
+  color: #fff;
+      text-align: center;
+    color: #fff;
+    font-family: poppins;
+    font-weight: bold;
+    letter-spacing: 2px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.novawesthreadone-tagtextbg {
+  width: 60px;
+  display: flex;
+  height:36px;
+  background: rgb(42, 175, 32, 0.3);
+  border-left: 1px solid rgb(42, 175, 32, 0.5);
+}
