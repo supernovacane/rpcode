@@ -1,0 +1,92 @@
+.arabellanineten-iconborder {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  padding: 10px;
+  border: 1px solid #d0d0d0;
+}
+
+.arabellanineten-icon {
+  position:relative;
+  width: 80px;
+  height: 80px;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  background: url(https://78.media.tumblr.com/e3d5ef130fa9464b134cdeaeecdd0797/tumblr_p5up2zhcjg1vuv9bpo7_250.gif) top center;
+  background-size: 250%;
+}
+
+.arabellanineten-iconoverlay {
+  position: relative;
+  top: -80px;
+  width: 80px;
+  height: 80px;
+  background-color: rgb(250, 250, 250, 0.15);
+}
+
+.arabellanineten-iconoverlaypink {
+  position: relative;
+  top: -160px;
+  width: 80px;
+  height: 80px;
+  background-color: rgb(196, 157, 144, 0.4);
+}
+
+.arabellanineten-smalltitle {
+  position: relative;
+  font-family: Arimo;
+  font-size: 6.5px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 12px;
+  z-index: 1;
+  text-align: right;
+}
+
+.arabellanineten-largetitle {
+  position: relative;
+  font-family: playfair display;
+  font-weight: 700;
+  font-size: 45px;
+  font-style: italic;
+  text-transform: none;
+  letter-spacing: 0px;
+  color:#c49d90;
+  margin-top: 5px;
+  z-index: 0.9;
+}
+
+.arabellanineten-textbox {
+    color: #484848;
+    background-color: none;
+    padding: 60px 65px 60px;
+}
+
+.arabellanineten-textborder {
+    background-color: #;
+    padding: 0px;
+    border: 1px solid #d0d0d0;
+}
+
+.arabellanineten-box {
+    background: none;
+    padding: 10px;
+    width: 480px;
+    font-size: 10px;
+    margin: auto;
+}
+
+.arabellanineten-text {
+    color: #484848;
+    font-size: 10px;
+    text-align: justify;
+    white-space: pre-line;
+}
+
+.arabellanineten-containertwo {
+width: 140px; padding-left: 15px; margin-top:10px; margin-bottom: 60px;
+}
+
+.arabellanineten-containerone {
+display: flex; width: 260px; flex-wrap: wrap; margin-left: 5px;
+}
