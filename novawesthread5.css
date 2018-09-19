@@ -1,0 +1,83 @@
+.novawesthreadfive {
+  width: 400px;
+  background: #fff;
+  padding: 40px;
+}  
+
+.novawesthreadfive a:link, .novawesthreadfive a:visited, .novawesthreadfive a:active {
+  color: #fff;
+  text-decoration: none;
+}
+
+.novawesthreadfive a:hover {
+  color: rgb(42, 175, 32, 0.5);
+}
+
+.novawesthreadfive b {
+  font-weight: bolder;
+  -webkit-text-stroke-width: .5px;
+  -webkit-text-stroke-color: rgb(42, 175, 32, 0.5);
+  color: rgb(42, 175, 32);
+  letter-spacing: .5px;
+}
+
+.novawesthreadfive i {
+  font-style: italic;
+  color: rgb(42, 175, 32);
+  -webkit-text-stroke-width: .5px;
+  -webkit-text-stroke-color: rgb(42, 175, 32, 0.5);
+}
+
+.novawesthreadfivetable {
+  width: 400px;
+  background: rgb(42, 175, 32, 0.4);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.novawesthreadfivetableicon {
+  height: 120px;
+  width: 120px;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.novawesthreadfivetabletext {
+  width: 280px;
+  background: #fff;
+}  
+
+.novawesthreadfivetablepost {
+  width: 240px;
+  background: #fff;
+  margin: 20px 30px 30px 30px;
+  text-align: justify;
+  font-size: 10px;
+  font-family: 'Heebo', sans-serif;
+  overflow: none;
+  letter-spacing: .2px;
+}  
+
+.novawesthreadfivetabletag {
+  width: 300px;
+  background: rgb(42, 175, 32, 0.1);
+  height: 15px;
+  padding: 12px 0px 20px 0px;
+}  
+
+.novawesthreadfive-tagtext {
+  width: 250px;
+  text-shadow:
+    -1px -1px 0 #76da6d,
+    1px -1px 0 #76da6d,
+    -1px 1px 0 #76da6d,
+    1px 1px 0 #76da6d;
+  color: #fff;
+      text-align: center;
+    color: #fff;
+    font-family: poppins;
+    font-weight: bold;
+    letter-spacing: 2px;
+  font-size: 15px;
+  text-transform: uppercase;
+}
