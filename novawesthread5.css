@@ -18,7 +18,7 @@
   -webkit-text-stroke-width: .5px;
   -webkit-text-stroke-color: rgb(42, 175, 32, 0.5);
   color: rgb(42, 175, 32);
-  letter-spacing: .5px;
+  letter-spacing: 1.5px;
 }
 
 .novawesthreadfive i {
@@ -55,7 +55,8 @@
   font-size: 10px;
   font-family: 'Heebo', sans-serif;
   overflow: none;
-  letter-spacing: .2px;
+  line-height: 15px;
+  letter-spacing: 1px;
 }  
 
 .novawesthreadfivetabletag {
