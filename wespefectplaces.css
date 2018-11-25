@@ -1,0 +1,90 @@
+.wpp {
+  width: 370px;
+  background-color: none;
+  position: relative;
+  top:0px;
+  left:0px;
+  }
+
+.wpp-container {
+  width: 260px;
+  height: 300px;
+  position: absolute;
+  top: 87px;
+  left: 40px;
+  background-color: none;
+  border-left: 1px solid #2aaf20;
+  margin-bottom: 40px;
+}
+
+.wpp-iconborder {
+  width: 86px;
+  height: 86px;
+  border: 1px solid #2aaf20;
+  border-radius: 100%;
+  position: absolute;
+  top: 33px;
+  left: 16px;
+}
+
+.wpp-icon {
+  width: 76px;
+  height: 76px;
+  border: 0px solid #2aaf20;
+  border-radius: 100%;
+  position: relative;
+  top:5px;
+}
+
+.wpp-head {
+  position: absolute;
+  top:30px;
+  left: 115px;
+  width: 30px;
+  height: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  line-height: 40px;
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  font-weight: 100;
+}
+
+.wpp-text {
+  font-family: 'Arimo', sans-serif;
+  font-weight: 400;
+  font-size: 9px;
+  height: 290px;
+  overflow: auto;
+  line-height: 17px;
+  text-transform: none;
+  letter-spacing: .5px;
+  text-align: justify;
+  margin: 10px 0px -10px 30px;
+  color: #555;
+}
+
+.wpp-text b {
+  font-weight: 800;
+  font-size: 10px;
+  line-height: 17px;
+  letter-spacing: 1px;
+  color: #33d728;
+  -webkit-text-stroke-width: .3px;
+  -webkit-text-stroke-color: #2aaf20;
+}
+
+.wpp-wtf {
+  position: absolute;
+  top: 175px;
+  left: -10px;
+  width: 130px;
+  height: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 10px;
+  line-height: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transform: rotate(-90deg);
+  font-weight: 100;
+}
